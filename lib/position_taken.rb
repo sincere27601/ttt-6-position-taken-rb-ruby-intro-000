@@ -2,4 +2,5 @@
 
 def position_taken?
 board = (["X","O","X","X","O"," "," "," "," "])
+array[index_number]
 end
